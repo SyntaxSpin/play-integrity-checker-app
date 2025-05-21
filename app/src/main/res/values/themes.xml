@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.PlayIntegrityAPIChecker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.PlayIntegrityAPIChecker" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/white</item>
         <item name="colorPrimaryVariant">@color/white</item>
@@ -20,7 +20,7 @@
         <item name="actionBarTheme">@style/Theme.PlayIntegrityAPIChecker.actionBarTheme</item>
     </style>
 
-    <style name="Theme.PlayIntegrityAPIChecker.Dialogs" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+    <style name="Theme.PlayIntegrityAPIChecker.Dialogs" parent="ThemeOverlay.Material3.MaterialAlertDialog">
         <item name="colorAccent">@color/blueSecondary</item>
         <item name="colorPrimary">@color/blueSecondary</item>
     </style>
